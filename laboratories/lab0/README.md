@@ -1,3 +1,4 @@
+# Solución Reto #1
 
 1. Usando la terminal shell crear un directorio en la ruta `~/operating-systems-20261/laboratories/lab0`.
 
